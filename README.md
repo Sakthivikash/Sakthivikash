@@ -1,4 +1,4 @@
-[![MasterHead](https://krify.co/wp-content/uploads/2020/10/MERNsiderback.png)]
+![MasterHead](https://krify.co/wp-content/uploads/2020/10/MERNsiderback.png)
 <h1 align="center">Hi 👋, I'm Sakthivikash</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?k=20&m=947663966&s=612x612&w=0&h=JUMJJkuDL6c9vReaJVL3Y4pDvJtqMzSVVYiJ6CSE-8A="
